@@ -33,7 +33,7 @@ def process_excel(input_file, output_file, api_key):
 # Usage
 API_KEY = "YOUR_GOOGLE_MAPS_API_KEY"  # Replace with your API key
 INPUT_FILE = "input.xlsx"  # Replace with your input Excel file
-OUTPUT_FILE = "output.xlsx"  # Output file
+OUTPUT_FILE = "output.xlsx"  # this will be the output file
 
 process_excel(INPUT_FILE, OUTPUT_FILE, API_KEY)
 
